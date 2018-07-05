@@ -18,6 +18,9 @@
                     <li>
                         <a class="profile-pic" href="#"> <img src="<?=base_url()?>assets_pixel/plugins/images/users/varun.jpg" alt="user-img" width="36" class="img-circle"><b class="hidden-xs">Steave</b> </a>
                     </li>
+                    <li>
+                        <a href="#"><b>Login</b></a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-header -->
